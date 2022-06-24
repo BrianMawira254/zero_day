@@ -1,3 +1,3 @@
 -Create new directories
--Practive Vagrant 
+-Practice Vagrant 
 -Files for school work
